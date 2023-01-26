@@ -1,0 +1,13 @@
+{
+  "address": "0xbb040cE7f6dFB026acce1122EC53dfcfeE8d649c",
+  "airlines": {
+    "0xdac39bcb88de48bd46bef16246fb476884a3136d": {
+      "address": "0xdac39bcb88de48bd46bef16246fb476884a3136d",
+      "name": "Airline 1"
+    },
+    "0xae97c726c71657fbc8370489d70fa69019fbdc85": {
+      "address": "0xae97c726c71657fbc8370489d70fa69019fbdc85",
+      "name": "Airline 2"
+    }
+  }
+}
